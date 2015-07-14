@@ -13,4 +13,4 @@ By translating "The Swift Programming Language" we want to help a lot of korean 
 
 ## Original Contents
 - [Download “The Swift Programming Language” from the iBooks Store](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
-- [The Swift Programming Language 웹 사이트](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
+- [The Swift Programming Language 웹 사이트](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
